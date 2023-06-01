@@ -1,0 +1,51 @@
+html{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: royalblue;
+    margin-top: -10px;
+}
+img{
+    height: 400px;
+}
+.ele{
+    float: left;
+    width: 680px;
+    margin-left: 25px;
+    margin-top: -20px;
+    margin-right: 10px;
+}
+.es{
+    float: right;
+    width:600px;
+    margin-top: 1px;
+    margin-right: 27px;
+    margin-bottom: 10px;
+}
+.day{
+    float: left;
+    width: 680px;
+    margin-top: 195px;
+    margin-left: 23px;
+}
+h2{
+    color: white;
+    margin-top: 210px;
+    margin-left: 900px;
+    color: red;
+}
+p{
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.self{
+    margin-bottom: -180px;
+    margin-top: 280px;
+    margin-left: 250px;
+    color: maroon;
+}
+h1,h2,.self{
+    text-decoration:underline;
+}

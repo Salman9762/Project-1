@@ -1,0 +1,83 @@
+html{
+    background-color: cyan;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110px;
+    margin-bottom: -18px;
+    color:maroon;
+}
+.logo{float: left;
+    height: 280px;
+    width: 280px;
+    align-content: flex-start;
+}
+.RG{
+    text-align: end;
+    font-size: 30px;
+    font-weight: lighter;
+    margin:10px;
+}
+h2{
+    margin-top: 10px;
+    font-style: italic;
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+}
+h3{
+    margin-top: -50px;
+    font-style: italic;
+    font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.top{
+    margin-top: -70px;
+    background-color:skyblue;
+}
+.building{
+    height:300px;
+    width:100%;
+}
+li{
+    font-weight: bolder;
+    font-size: 25px;
+    display: inline;
+    margin-right: 90px;
+    margin-left: 40PX;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color:black;
+}
+input{
+    margin-left: 400px;
+    width: 500px;
+}
+.footer{
+    font-size: 20px;
+    font-weight: lighter;
+    display: list-item;
+    text-decoration: none;
+}
+.last{
+    float: left;
+    height: 50px;
+    width: 50px;
+}
+.foot{
+    margin-top: 10px;
+}
+span,.salman{
+    display: inline;
+}
+.foot,.add{
+    display: inline-block;
+}
+.add{
+    margin-left: 1000px;
+    margin-top: -20px;
+}

@@ -1,0 +1,49 @@
+html{
+    background-color: black;
+}
+.gif{
+    background-color: antiquewhite;
+    height: 600px;
+    width:100%;
+}
+h1{
+    color: yellowgreen;
+    text-align: center;
+    font-size: 50px;
+}
+.entrance{
+    float: right;
+}
+.awards{
+    float: left;
+    height: 250px;
+    width: 500px;
+}
+p{
+    color: white;
+}
+.last{
+    float: left;
+    height: 50px;
+    width: 50px;
+}
+.footer{
+    color:white
+}
+span{
+    color: white;
+}
+.add,.foot{
+    display: inline-block;
+    margin-top: -10px;
+}
+.add{
+    margin-left: 700px;
+}
+span,.salman{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

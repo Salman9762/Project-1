@@ -1,0 +1,97 @@
+.box1{
+    height: 400px;
+    width:100%;
+    background-color: salmon;
+}
+h1{
+    text-align: center;
+}
+.logo{
+    float: inline-start;
+    height: 100px;
+    width: 100px;
+}
+.address{
+    align-content:start;
+    margin-left: 50px;
+}
+.phone{
+    height: 100px;
+    width: 100px;
+}
+.address,.call,.mail{
+    display: inline-block;
+}
+.call{
+    margin-left: 360px;
+}
+.e{
+    height: 100px;
+    width: 100px;
+}
+.mail{
+    margin-left: 360px;
+}
+.school{
+    height: 100px;
+    width: 100px;
+    float: left;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.name,.msg{
+    display: inline-block;
+}
+.name{
+    margin-left: 200px;
+}
+.msg{
+    margin-left: 20px;
+}
+.index{
+    width: 400px;
+}
+.m{
+    width: 300px;
+}
+.footer{
+    font-size: 20px;
+    font-weight: lighter;
+    display: list-item;
+    text-decoration: none;
+}
+.last{
+    margin-right: 5px;
+    float: left;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+
+}
+.foot{
+    margin-top: -10px;
+}
+.foot,.add{
+    display: inline-block;
+}
+#contact{
+    height: 400px;
+    width: 100%;
+    margin-bottom: -25px;
+}
+.add{
+    margin-left: 700px;
+}
+span,.salman{
+    display: inline;
+}
+h3{
+    margin-bottom: -10px;
+}
+p{
+    line-gap-override: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

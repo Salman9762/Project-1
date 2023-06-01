@@ -1,0 +1,71 @@
+body{
+    background-image: url("../assesets/images/awards-achievements-image.jpg");
+    background-size: cover;
+}
+.goud{
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+.KCR{
+    float: right;
+    height: 200px;
+    width: 200px;
+}
+.Olympic{
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+p{
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 100px;
+    margin-top: -10px;
+    text-decoration: underline;
+}
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    color: blueviolet;
+}
+.goud,.Olympic{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.footer{
+    font-size: 20px;
+    font-weight: lighter;
+    display: list-item;
+    text-decoration: none;
+}
+.last{
+    float: left;
+    height: 50px;
+    width: 50px;
+}
+.foot{
+    margin-top: -10px;
+}
+.f{
+    font-size: 20px;
+}
+.foot,.add{
+    display: inline-block;
+}
+.add{
+    margin-left:600px;
+}
+.salman{
+    font-size: 16px;
+}
+.span,.salman{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
